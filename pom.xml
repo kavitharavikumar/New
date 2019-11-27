@@ -8,7 +8,7 @@
    <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
         <spring.version>5.0.0.RELEASE</spring.version>
-		<jackson.databind-version>2.9.0</jackson.databind-version>
+		<jackson.databind-version>2.9.10.1</jackson.databind-version>
 		<hibernate.version>5.2.11.Final</hibernate.version>
 		<mysql.connector.version>8.0.17</mysql.connector.version>
   </properties>
